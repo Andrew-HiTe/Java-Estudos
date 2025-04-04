@@ -27,6 +27,7 @@ public class GerenteDeEstoque {
         }else {
             System.out.println("O produto procurado não está no estoque");
         }
+        scanner.close();
         
     }
 

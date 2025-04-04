@@ -24,7 +24,7 @@ public class GerenteDeNotas {
             System.out.println("Aluno Aprovado");
         }else{
             System.out.println("Aluno Reprovado");
+            digite.close();
         }
-        
     }
 }
